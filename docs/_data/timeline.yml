@@ -1,17 +1,14 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Etudiant, Université de Djibouti
+  from: 2010
+  to: 2012 & 2016
+  description: Mon parcours académique reflète une solide formation en sciences et en traitement des données. Après avoir obtenu en 2009 un Baccalauréat général en série scientifique, option sciences biologiques, j’ai entrepris des études supérieures en statistiques et informatique. En 2012, j’ai décroché un Diplôme Universitaire de Technologie (DUT) en Statistique et Traitement Informatique des Données (STID), avec mention Bien, renforçant mes compétences en analyse de données. Souhaitant approfondir mes connaissances, j’ai repris mes études tout en étant salarié et, en 2016, j’ai finalisé une Licence appliquée en Statistique et Traitement des Données (L3 STD), me spécialisant davantage en modélisation statistique et gestion des données.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Cadre, CNSS, Djibouti
+  from: 2012
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Avec une solide expérience au sein de la Caisse Nationale de Sécurité Sociale de Djibouti (CNSS), j'ai contribué à des transformations majeures en matière de gestion des données et d'innovation organisationnelle. Actuellement Chef du Service Statistique et Mesure des Performances, j’ai structuré le premier système d’information décisionnel de la CNSS, instauré une culture data-driven, et supervisé la création de tableaux de bord intégrés ainsi que de l'annuaire statistique. Auparavant, en tant que Chef du Service des Affiliations et Gestion des Comptes Individuels, j'ai assuré la conformité des opérations liées aux comptes et produit des statistiques stratégiques. En tant que Responsable du fichier de l’Assurance Maladie Universelle, j'ai piloté le lancement de cette initiative nationale, coordonnant les opérations d’enrôlement biométrique et garantissant la qualité des données. Enfin, en tant que Statisticien, j’ai exploité et interprété des données pour appuyer les décisions stratégiques. Ce parcours illustre ma capacité à allier expertise en données, leadership et gestion de projets complexes pour transformer les organisations.
+
+- title: Etudiant en formation continue, Université de Lille
+  from: 2024
+  to: 2025
+  description: Attiré par l’opportunité d’acquérir une formation multidisciplinaire de haut niveau, j’ai décidé de reprendre mes études universitaires pour intégrer un programme offrant une triple compétence. Ce choix m’a conduit à m’engager dans un Master indifférencié, combinant à la fois les volets recherche et professionnel, intitulé Sciences, Technologies, Santé avec une spécialisation en Ingénierie de la Santé, parcours Data Science en Santé. Cette formation unique vise à développer des compétences avancées en science des données appliquée au domaine de la santé, en intégrant des aspects technologiques, scientifiques et méthodologiques. Elle me permet d’approfondir mes connaissances en traitement et analyse des données tout en les appliquant à des problématiques spécifiques du secteur de la santé, un domaine qui me passionne profondément.

@@ -5,14 +5,14 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **Mon Profil**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Bonjour, je suis **{{ site.author.name }}** :wave:,<br>
+Titulaire d'une licence appliquée en « Statistique et Traitement des Données », j'occupe actuellement le poste de chef de service statistiques et mesure des performances au sein du département Études, Statistiques et Actuariat de la Caisse Nationale de Sécurité Sociale de Djibouti (CNSS). Fort d'une solide expérience professionnelle, je me suis spécialisé dans le management d'équipe, le pilotage d'activités, la gestion de projets et les techniques de qualification des données. Par ailleurs, je poursuis actuellement une formation de Master en science des données en santé.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Logiciels & Langages" source=site.data.programming-skills %}
+{% include about/skills.html title="Autres compétances" source=site.data.other-skills %}
 </div>
 
 <div class="row">

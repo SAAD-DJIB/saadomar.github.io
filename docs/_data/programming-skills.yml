@@ -1,10 +1,10 @@
-- name: HTML5/CSS3
+- name: R
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: Power BI
+  percentage: 95
+  color: warning
 
 - name: Python
   percentage: 70
